@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0_ab4cc418272f5ab2d728ecdbafd7137f092258d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0_16f6170508d7fb77522520d7343db643fdcac51b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0_f4a990ecb786df363f9dd974d864ceae61b232da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0_97371b891e9cea0265003717334c0861df417fa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_95f79bea5454046ca60d4f8c6229b063756ab663.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0_bb2979710223781ecf83a277f4211ce3ffb5573d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0_f3288962cf03cd6d3725373da3982040642ac581.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0_481f901d71f4e9ae882784d288831005317e9f13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0_d0dabd95d255feed7d13f49a6997e046c97e98be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0_769fbe1e1312e1a75209a71019e9520a7cd8597f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0_2aeae336633bd8a6f03106309429c5fe88a0729c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0_42cbe99998fb4538368cd743e1ee9cfa782a881f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0_f655a50034718bc8a825ffd5d4a246c816d3fc31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="C:\Users\Lenovo\android-basics-tour-guide-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0_e3f867e9cad72c11d9fdedf1c73f76d84fd48780.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Raj Tour Guide</string>
+    <string name="state_name">Jaipur, Capital of Rajasthan</string>
+    <string name="hotels_restaurants">Hotels and Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="atm">Atm locations</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="metro_station">Metro Stations</string>
+    <string name="name_text">Nirman Vihar Metro Station</string>
+    <string name="location_text">Near Laxmi Nagar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
